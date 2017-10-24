@@ -1,7 +1,7 @@
 # detectBots
 A try on detecting bots in combination with a black hole for bad bots
 
-Includes: Jeff Starr's Blackhole:
+Includes: Jeff Starr's Blackhole for Bad Bots:
 
 Title:        Blackhole for Bad Bots<br>
 Description:  Automatically trap and block bots that don't obey robots.txt rules<br>
